@@ -1,0 +1,8 @@
+/* use descending combinators of either type or selectors to allow only p elements that are descendants of div 
+to have a yellow background, red text, a font size of 20px, and center aligned*/
+.container p{
+background-color: yellow;
+color: #ff0000;
+font-size: 20px;
+text-align: center;
+}
