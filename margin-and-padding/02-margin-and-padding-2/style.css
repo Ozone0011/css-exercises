@@ -1,20 +1,17 @@
 body {
   background: #eee;
   font-family: sans-serif;
-  border: 2px solid green;
 }
 
 .card {
   width: 400px;
   background: #fff;
   margin: 16px auto;
-  border: 2px solid blue;
   padding: 13px;
 }
 
 .title {
   background: #e3f4ff;
-  border: 2px solid red;
   margin-bottom: 30px;
   margin-top: -5px;
   padding: 9px;
@@ -22,7 +19,6 @@ body {
 
 .content {
   background: #e3f4ff;
-  border: 2px solid red;
   margin-top: -15px;
   margin-bottom: 30px;
   padding: 9px;
@@ -30,7 +26,6 @@ body {
 
 .button-container {
   background: #e3f4ff;
-  border: 2px solid red;
   margin-top: -15px;
   padding-left: 155px;
 }
@@ -38,7 +33,6 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  border: 2px solid red;
   display: block;
   margin-bottom: 10px;
   margin-left: -20px;
